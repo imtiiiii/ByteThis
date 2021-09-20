@@ -3,6 +3,7 @@ body{
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    
 }
 header{
     background-image: url(img/bg-home.jpg);
@@ -18,4 +19,7 @@ header{
     font-size: 20px;
     padding-left: 20px
     ;
+}
+.banner h1{
+    font-size: 50px;
 }
