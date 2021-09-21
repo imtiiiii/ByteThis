@@ -22,3 +22,13 @@ header{
 .banner h1{
     font-size: 50px;
 }
+#services{
+    position: relative;
+}
+
+.border-1{
+   width: 30px;
+   height: 3px;
+   margin: 0 auto;
+   background-color: cyan;
+}
